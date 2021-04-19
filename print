@@ -1,1 +1,3 @@
 print("Program 1")
+#syntax ini untuk mencetak atau memunculkan tulisan Program 1
+# bila ada tanda pagar, maka ini adalah komentar (comments) maka tidak terhitung sebagai kode (Code syntax)
